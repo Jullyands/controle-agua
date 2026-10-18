@@ -1,7 +1,7 @@
 # Controle de Níveis de Água
 ### Autor: Anna Jullya
 
-Este projeto em python foi feito para praticar o uso de biblioteca e comandos como **colorama**,**fore** e **style**. O programa será executado normalmente no terminal, sem exigir valor de entrada. O valor é alterado dentro do código.
+Este projeto em python foi feito para praticar o uso de biblioteca e comandos como **colorama**, **fore** e **style**. O programa será executado normalmente no terminal, sem exigir valor de entrada. O valor é alterado dentro do código.
 
 A linha 5 inicia a lista com as mensagens, as mensagens aparecem coloridas na tela por conta do comando que aparece na terceira linha **"from colorama import Fore, Style"**.
 
